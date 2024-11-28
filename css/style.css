@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.div{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(255, 0, 0, 0.767); 
+}
+.img{
+
+}
+.logo a {
+    color: rgb(0, 183, 255);
+    text-decoration: none;
+    font-weight:700;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.carousel-inner{ 
+
+}
+.carousel-item img{
+
+}
+.carousel-item {
+    padding: 0px 100px;
+}
+.icon i{
+    color: white;
+    float: right;
+    position: relative;
+    bottom: 40px;
+    padding: 0px 30px;
+}
+.pop{
+    float: right;
+    position: relative;
+    bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
